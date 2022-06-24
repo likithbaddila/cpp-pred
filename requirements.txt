@@ -8,9 +8,7 @@ libclang==14.0.1
 locket==0.2.1
 Markdown==3.3.6
 mccabe==0.6.1
-mkl-service==2.4.0
 mpmath==1.2.1
-munkres==1.1.4
 mypy-extensions==0.4.3
 navigator-updater==0.2.1
 nltk==3.6.5
